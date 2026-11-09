@@ -1,0 +1,10 @@
+{
+  "name": "GitHub Codespaces Custom",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode"
+      ]
+    }
+  }
+}
